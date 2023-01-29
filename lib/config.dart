@@ -1,0 +1,10 @@
+//const BASE_URL = 'http://172.16.23.40:6000';
+const BASE_URL = 'http://10.0.2.2:6000';
+//const BASE_URL = 'http://172.16.12.188:6000';
+const UPLOAD_URL = BASE_URL+'/upload/';
+const  OFFRE_URL = BASE_URL+'/offre';
+const BID_URL = BASE_URL+'/bid';
+const ROOM_URL= BASE_URL+'/room';
+const TIME_AUCTION=1;
+const ID_CLIENT=1;
+const BASE_URL_MQTT = '10.0.2.2';
