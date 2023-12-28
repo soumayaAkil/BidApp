@@ -1,16 +1,11 @@
-# bid_app
+# Application Mobile pour Enchères en Ligne
 
-A new Flutter project.
+Conception et développement d’une application, permettant la consultation et l’ajout des produits, la participation aux enchères, et le lancement d’enchères.
+Utilisation des tests exhaustifs (unitaires, intégration, et tests end-to-end en Flutter) assurant la fiabilité du système.
 
-## Getting Started
+## Technologies utilisées
 
-This project is a starting point for a Flutter application.
+NodeJS, Flutter, MQTT, SQL, Figma
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Démo
