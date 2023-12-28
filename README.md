@@ -11,5 +11,11 @@ NodeJS, Flutter, MQTT, SQL, Figma
 # Démo
 <p align="center">
   <img src="https://github.com/soumayaAkil/BidApp/blob/master/bid.PNG" alt="image"/>
-   <img src="https://github.com/soumayaAkil/BidApp/blob/master/bid.PNG" alt="image"/>
+   <img src="https://github.com/soumayaAkil/BidApp/blob/master/bidfin.PNG" alt="image"/> 
+    <img src="https://github.com/soumayaAkil/BidApp/blob/master/home.PNG" alt="image"/>
+    <img src="https://github.com/soumayaAkil/BidApp/blob/master/inscritbid.PNG" alt="image"/>
+    <img src="https://github.com/soumayaAkil/BidApp/blob/master/login.PNG" alt="image"/>
+    <img src="https://github.com/soumayaAkil/BidApp/blob/master/detailprod.PNG" alt="image"/>
+  
+  
 </p>
