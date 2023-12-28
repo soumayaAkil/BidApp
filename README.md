@@ -17,3 +17,13 @@ NodeJS, Flutter, MQTT, SQL, Figma
     <img src="https://github.com/soumayaAkil/BidApp/blob/master/login.PNG" alt="image"/>
     <img src="https://github.com/soumayaAkil/BidApp/blob/master/detailprod.PNG" alt="image"/> 
 </p>
+<p align="center">
+  <img src="https://github.com/soumayaAkil/BidApp/blob/master/bid.PNG" width="200" alt="image"/>
+  <img src="https://github.com/soumayaAkil/BidApp/blob/master/bidfin.PNG" width="200" alt="image"/> 
+  <img src="https://github.com/soumayaAkil/BidApp/blob/master/home.PNG" width="200" alt="image"/>
+</p>
+<p align="center">
+  <img src="https://github.com/soumayaAkil/BidApp/blob/master/inscritbid.PNG" width="200" alt="image"/>
+  <img src="https://github.com/soumayaAkil/BidApp/blob/master/login.PNG" width="200" alt="image"/>
+  <img src="https://github.com/soumayaAkil/BidApp/blob/master/detailprod.PNG" width="200" alt="image"/> 
+</p>
